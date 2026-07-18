@@ -4,9 +4,9 @@ using namespace std;
 using ll  = long long;
 using ld  = long double;
 
-#define fixed(n) fixed << setprecision(n)
 #define all(x)   (x).begin(), (x).end()
 #define rall(x)  (x).rbegin(), (x).rend()
+#define fixed(n) fixed << setprecision(n)
 #define debug(x) cout << #x << " = " << (x) << '\n'
 
 void solve() {
